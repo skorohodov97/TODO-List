@@ -1,2 +1,2 @@
 # TODO-List
-Todo list using fake server
+Данные брал с фейкового сервера https://jsonplaceholder.typicode.com
